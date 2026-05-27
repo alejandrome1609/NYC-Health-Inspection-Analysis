@@ -1,5 +1,5 @@
 # Team-Alejandro-Rosanna-Mariama
-Alejandro Espinosa
+Members: Alejandro Espinosa
 Mariama Mansary
-Rosanna Carreras
+Rosanna Carrera
 (We made this pretty late, so we'll just add the final version of our stuff here.)
